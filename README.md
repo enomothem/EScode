@@ -13,6 +13,7 @@
 - [x] DEC -> ALL
 - [x] HEX -> ALL
 - [x] Hash md5/sha1/sha256/sha512
+- [x] GBK
 
 
 ## ES_T0003 介绍
